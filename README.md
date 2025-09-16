@@ -18,7 +18,7 @@ SummitInventory is a PL/SQL system engineered to keep product flow at its peak. 
 ## Project Structure
 
 ```pgsql
-SummitInventory/
+SummitInventory
 ├── sql/
 │   ├── tables.sql        # Schema definitions
 │   ├── functions.sql     # Order total function
