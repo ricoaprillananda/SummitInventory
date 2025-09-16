@@ -27,7 +27,7 @@ SummitInventory/
 │   └── test.sql          # End-to-end validation
 ├── LICENSE               # MIT License
 └── README.md             # Project documentation
-``
+```
 
 ---
 
