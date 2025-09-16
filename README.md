@@ -5,15 +5,15 @@ SummitInventory is a PL/SQL system engineered to keep product flow at its peak. 
 
 ## Features
 
-Relational schema with three entities: Products, Orders, and OrderDetails.
+> Relational schema with three entities: Products, Orders, and OrderDetails.
 
-Order total function (Get_Order_Total) that aggregates line items into precise transaction totals.
+> Order total function (Get_Order_Total) that aggregates line items into precise transaction totals.
 
-Cursor-based restock procedure (Auto_Restock) to replenish low-stock products and update availability status.
+> Cursor-based restock procedure (Auto_Restock) to replenish low-stock products and update availability status.
 
-Sample dataset to simulate real inventory and order flows.
+> Sample dataset to simulate real inventory and order flows.
 
-Comprehensive test script to validate calculations, restock logic, and business rules.
+> Comprehensive test script to validate calculations, restock logic, and business rules.
 
 ## Project Structure
 
